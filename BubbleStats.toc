@@ -4,10 +4,10 @@
 ## Author: Livvydoodlez
 ## Version: 1.0
 ## SavedVariables: BubbleStatsDB  -- Account-wide saved variable
-## SavedVariablesPerCharacter: BubbleStatsPerCharDBHealth  -- Per-character saved variable (if needed)
-## SavedVariablesPerCharacter: BubbleStatsPerCharDBEnergy -- Per-character saved variable (if needed)
-## SavedVariablesPerCharacter: BubbleStatsPerCharDBPrayer -- Per-character saved variable (if needed)
+## SavedVariablesPerCharacter: BubbleStatsPerCharDBHealth  -- Per-character saved variable
+## SavedVariablesPerCharacter: BubbleStatsPerCharDBEnergy -- Per-character saved variable
+## SavedVariablesPerCharacter: BubbleStatsPerCharDBMana -- Per-character saved variable (if needed)
 
 BubbleStatsHealth.lua
 BubbleStatsEnergy.lua
-BubbleStatsPrayer.lua
+BubbleStatsMana.lua
