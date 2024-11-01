@@ -1,0 +1,1 @@
+print("[BUBBLE STATS]: 10/31/2024 Prayer Currently Unavailable.")
