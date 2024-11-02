@@ -10,3 +10,7 @@ These commands still work for HP and Run Energy.
 
 
 ![alt text](https://i.gyazo.com/f94efeca886443d0884cfbdd21610025.png?raw=true)
+
+
+
+RIGHT CLICK to move the buttons to a location you wish.
