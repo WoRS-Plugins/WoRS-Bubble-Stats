@@ -14,3 +14,16 @@ These commands still work for HP and Run Energy.
 
 
 RIGHT CLICK to move the buttons to a location you wish.
+
+
+
+
+GOES IN:
+
+interface/addons/BubbleStats/(BubbleStats.toc, BubbleStats.lua should be in this folder)
+
+
+If your installation looks like:
+
+
+interface/addons/BubbleStats/BubbleStats/Bubblestats.toc you installed it wrong.
