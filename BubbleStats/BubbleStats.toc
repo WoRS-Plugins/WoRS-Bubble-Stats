@@ -7,6 +7,7 @@
 ## SavedVariablesPerCharacter: BubbleStatsPerCharDBHealth  -- Per-character saved variable
 ## SavedVariablesPerCharacter: BubbleStatsPerCharDBEnergy -- Per-character saved variable
 ## SavedVariablesPerCharacter: BubbleStatsPerCharDBMana -- Per-character saved variable (if needed)
+## DefaultState: disabled
 
 BubbleStatsHealth.lua
 BubbleStatsEnergy.lua
